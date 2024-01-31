@@ -43,7 +43,7 @@ python maximal_linakbility.py --mated_scores <path_to_mated_scores> --nonmated_s
 
 
 # Reference
-Please cite the following paper, published in the IEEE Transactions on Information Forensics and Security. The[PDF version of the paper](https://ieeexplore.ieee.org/abstract/document/10098649) is available as *open access* on the IEEE-Xplore. The complete source code for reproducing all experiments in the paper is also [publicly available](https://gitlab.idiap.ch/bob/bob.paper.tifs2023_linkability_ml).
+If you use this metric, please cite the following paper, which is published in the IEEE Transactions on Information Forensics and Security. The [PDF version of the paper](https://ieeexplore.ieee.org/abstract/document/10098649) is available as *open access* on the IEEE-Xplore. The complete source code for reproducing all experiments in the paper is also publicly available in the [official repository](https://gitlab.idiap.ch/bob/bob.paper.tifs2023_linkability_ml).
 
 ```Bibtex
 @article{linkability_maxleakage,
